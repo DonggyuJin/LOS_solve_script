@@ -1,6 +1,6 @@
 import requests
 
-url = "https://los.rubiya.kr/chall/hell_fire_309d5f471fbdd4722d221835380bb805.php"
+url = "https://los.rubiya.kr/chall/evil_wizard_32e3d35835aa4e039348712fb75169ad.php"
 cookies = { "PHPSESSID" : "쿠키값" }
 
 def email_length():
