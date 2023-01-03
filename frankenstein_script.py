@@ -1,7 +1,7 @@
 import requests
 
 url = "https://los.rubiya.kr/chall/frankenstein_b5bab23e64777e1756174ad33f14b5db.php"
-cookies = { "PHPSESSID" : "s43pedsgqi7j01ghlr4ov1i179" }
+cookies = { "PHPSESSID" : "쿠키값" }
 
 def pw_crack():
     password = ''
